@@ -130,7 +130,7 @@ Namespace Mail
             Return msg
         End Function
 
-        Public Const apiKey = "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"
+        Public Const apiKey = "----"
 
         Public Shared Sub Send(msg As SendGridMessage)
             Try
