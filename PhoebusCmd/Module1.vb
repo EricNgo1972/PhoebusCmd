@@ -107,8 +107,6 @@ Module Module1
             Exit Sub
         End If
 
-        pbs.BO.LA.NAInfoList.InvalidateCache()
-
         ServiceRegister.RegisterServices()
 
         SayHi()
