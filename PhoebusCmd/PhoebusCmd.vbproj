@@ -63,7 +63,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>26DF53A7CE465C40CD3957B3177E1163493FB95E</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>AFEF48026D8DF1A3F58E5071510C057EB8F5273D</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>
@@ -100,6 +100,9 @@
       <HintPath>..\..\Lib\itextsharp.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Scriban">
+      <HintPath>..\..\Lib\Scriban.dll</HintPath>
+    </Reference>
     <Reference Include="SPC.BackupRestore">
       <HintPath>..\..\Lib\SPC.BackupRestore.dll</HintPath>
     </Reference>
