@@ -103,137 +103,199 @@
     <Reference Include="Scriban">
       <HintPath>..\..\Lib\Scriban.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.BackupRestore">
-      <HintPath>..\..\Lib\SPC.BackupRestore.dll</HintPath>
+    <Reference Include="SPC.BackupRestore, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.BackupRestore.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.CloudAuthentication">
-      <HintPath>..\..\Lib\SPC.CloudAuthentication.dll</HintPath>
+    <Reference Include="SPC.CloudAuthentication, Version=4.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.CloudAuthentication.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.CodeGen">
-      <HintPath>..\..\Lib\SPC.CodeGen.dll</HintPath>
+    <Reference Include="SPC.CodeGen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.CodeGen.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.CORE.Crypto">
-      <HintPath>..\..\Lib\SPC.CORE.Crypto.dll</HintPath>
+    <Reference Include="SPC.CORE.Crypto, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.CORE.Crypto.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.CORE.Services">
-      <HintPath>..\..\Lib\SPC.CORE.Services.dll</HintPath>
+    <Reference Include="SPC.CORE.Services, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.CORE.Services.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.FAST">
-      <HintPath>..\..\Lib\SPC.EXT.FAST.dll</HintPath>
+    <Reference Include="SPC.EXT.FAST, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.FAST.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.Maximo">
-      <HintPath>..\..\Lib\SPC.EXT.Maximo.dll</HintPath>
+    <Reference Include="SPC.EXT.Maximo, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.Maximo.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.MIMOSA">
-      <HintPath>..\..\Lib\SPC.EXT.MIMOSA.dll</HintPath>
+    <Reference Include="SPC.EXT.MIMOSA, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.MIMOSA.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.MISA">
-      <HintPath>..\..\Lib\SPC.EXT.MISA.dll</HintPath>
+    <Reference Include="SPC.EXT.MISA, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.MISA.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.SunSystems">
-      <HintPath>..\..\Lib\SPC.EXT.SunSystems.dll</HintPath>
+    <Reference Include="SPC.EXT.SunSystems, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.SunSystems.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.TWINCRM">
-      <HintPath>..\..\Lib\SPC.EXT.TWINCRM.dll</HintPath>
+    <Reference Include="SPC.EXT.TWINCRM, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.TWINCRM.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.VUSREV2018">
-      <HintPath>..\..\Lib\SPC.EXT.VUSREV2018.dll</HintPath>
+    <Reference Include="SPC.EXT.VUSREV2018, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.VUSREV2018.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.VUSREV2019">
-      <HintPath>..\..\Lib\SPC.EXT.VUSREV2019.dll</HintPath>
+    <Reference Include="SPC.EXT.VUSREV2019, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.VUSREV2019.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.EXT.Xero">
-      <HintPath>..\..\Lib\SPC.EXT.Xero.dll</HintPath>
+    <Reference Include="SPC.EXT.Xero, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.EXT.Xero.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Helper">
-      <HintPath>..\..\Lib\SPC.Helper.dll</HintPath>
+    <Reference Include="SPC.Helper, Version=4.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Helper.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.Azure">
-      <HintPath>..\..\Lib\SPC.Phoebus.Azure.dll</HintPath>
+    <Reference Include="SPC.Phoebus.Azure, Version=4.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.Azure.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.ClientDocuments">
-      <HintPath>..\..\Lib\SPC.Phoebus.ClientDocuments.dll</HintPath>
+    <Reference Include="SPC.Phoebus.ClientDocuments, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.ClientDocuments.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.CRM">
-      <HintPath>..\..\Lib\SPC.Phoebus.CRM.dll</HintPath>
+    <Reference Include="SPC.Phoebus.CRM, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.CRM.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.DocumentManagement">
-      <HintPath>..\..\Lib\SPC.Phoebus.DocumentManagement.dll</HintPath>
+    <Reference Include="SPC.Phoebus.DocumentManagement, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.DocumentManagement.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.EAM">
-      <HintPath>..\..\Lib\SPC.Phoebus.EAM.dll</HintPath>
+    <Reference Include="SPC.Phoebus.EAM, Version=4.5.5.381, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.EAM.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.FI">
-      <HintPath>..\..\Lib\SPC.Phoebus.FI.dll</HintPath>
+    <Reference Include="SPC.Phoebus.EI">
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.EI.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.HR">
-      <HintPath>..\..\Lib\SPC.Phoebus.HR.dll</HintPath>
+    <Reference Include="SPC.Phoebus.FI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.FI.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.HSP">
-      <HintPath>..\..\Lib\SPC.Phoebus.HSP.dll</HintPath>
+    <Reference Include="SPC.Phoebus.HR, Version=4.5.5.382, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.HR.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.LA">
-      <HintPath>..\..\Lib\SPC.Phoebus.LA.dll</HintPath>
+    <Reference Include="SPC.Phoebus.HSP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.HSP.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.LM">
-      <HintPath>..\..\Lib\SPC.Phoebus.LM.dll</HintPath>
+    <Reference Include="SPC.Phoebus.LA, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.LA.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.Localizator">
-      <HintPath>..\..\Lib\SPC.Phoebus.Localizator.dll</HintPath>
+    <Reference Include="SPC.Phoebus.LM, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.LM.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.MC">
-      <HintPath>..\..\Lib\SPC.Phoebus.MC.dll</HintPath>
+    <Reference Include="SPC.Phoebus.Localizator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.Localizator.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.Mobile">
-      <HintPath>..\..\Lib\SPC.Phoebus.Mobile.dll</HintPath>
+    <Reference Include="SPC.Phoebus.MC, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.MC.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.OG">
-      <HintPath>..\..\Lib\SPC.Phoebus.OG.dll</HintPath>
+    <Reference Include="SPC.Phoebus.Mobile, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.Mobile.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.PAF">
-      <HintPath>..\..\Lib\SPC.Phoebus.PAF.dll</HintPath>
+    <Reference Include="SPC.Phoebus.OCB">
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.OCB.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.PBO">
-      <HintPath>..\..\Lib\SPC.Phoebus.PBO.dll</HintPath>
+    <Reference Include="SPC.Phoebus.OG, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.OG.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.PI">
-      <HintPath>..\..\Lib\SPC.Phoebus.PI.dll</HintPath>
+    <Reference Include="SPC.Phoebus.PAF, Version=4.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.PAF.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.PM">
-      <HintPath>..\..\Lib\SPC.Phoebus.PM.dll</HintPath>
+    <Reference Include="SPC.Phoebus.PBO, Version=3.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.PBO.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.POP">
-      <HintPath>..\..\Lib\SPC.Phoebus.POP.dll</HintPath>
+    <Reference Include="SPC.Phoebus.PI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.PI.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.QDBO">
-      <HintPath>..\..\Lib\SPC.Phoebus.QDBO.dll</HintPath>
+    <Reference Include="SPC.Phoebus.PM, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.PM.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.RE">
-      <HintPath>..\..\Lib\SPC.Phoebus.RE.dll</HintPath>
+    <Reference Include="SPC.Phoebus.POP, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.POP.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.SM">
-      <HintPath>..\..\Lib\SPC.Phoebus.SM.dll</HintPath>
+    <Reference Include="SPC.Phoebus.QDBO, Version=3.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.QDBO.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.SOP">
-      <HintPath>..\..\Lib\SPC.Phoebus.SOP.dll</HintPath>
+    <Reference Include="SPC.Phoebus.RE, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.RE.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.TBO">
-      <HintPath>..\..\Lib\SPC.Phoebus.TBO.dll</HintPath>
+    <Reference Include="SPC.Phoebus.SM, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.SM.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.TechDoc">
-      <HintPath>..\..\Lib\SPC.Phoebus.TechDoc.dll</HintPath>
+    <Reference Include="SPC.Phoebus.SOP, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.SOP.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.UsrMan">
-      <HintPath>..\..\Lib\SPC.Phoebus.UsrMan.dll</HintPath>
+    <Reference Include="SPC.Phoebus.TBO, Version=4.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.TBO.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.VNPTInvoice">
-      <HintPath>..\..\Lib\SPC.Phoebus.VNPTInvoice.dll</HintPath>
+    <Reference Include="SPC.Phoebus.TechDoc, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.TechDoc.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.Phoebus.VNPTInvoice.XmlSerializers">
-      <HintPath>..\..\Lib\SPC.Phoebus.VNPTInvoice.XmlSerializers.dll</HintPath>
+    <Reference Include="SPC.Phoebus.UsrMan, Version=4.5.5.386, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.UsrMan.dll</HintPath>
     </Reference>
-    <Reference Include="SPC.ServiceBus">
-      <HintPath>..\..\Lib\SPC.ServiceBus.dll</HintPath>
+    <Reference Include="SPC.Phoebus.VNPTInvoice, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.VNPTInvoice.dll</HintPath>
+    </Reference>
+    <Reference Include="SPC.Phoebus.VNPTInvoice.XmlSerializers, Version=4.5.5.380, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.Phoebus.VNPTInvoice.XmlSerializers.dll</HintPath>
+    </Reference>
+    <Reference Include="SPC.ServiceBus, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.ServiceBus.dll</HintPath>
+    </Reference>
+    <Reference Include="SPC.SMS">
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.SMS.dll</HintPath>
+    </Reference>
+    <Reference Include="SPC.WindowsUI.UCBase">
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.WindowsUI.UCBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SPC.ZZZ.Xero">
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.ZZZ.Xero.dll</HintPath>
+    </Reference>
+    <Reference Include="SPC.ZZZ.XeroNew">
+      <HintPath>..\..\..\PhoebusWIN\lib\SPC.ZZZ.XeroNew.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -352,7 +414,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Csla">
-      <Version>2.1.4.1</Version>
+      <Version>2.1.4.2</Version>
     </PackageReference>
     <PackageReference Include="Markdig">
       <Version>0.18.1</Version>

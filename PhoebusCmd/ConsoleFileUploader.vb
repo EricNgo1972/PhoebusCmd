@@ -10,7 +10,7 @@ Namespace UI
             Console.Write("{0} (extension={1})", pTitle, Extension)
             Dim ret = Console.ReadLine()
 
-            If My.Computer.FileSystem.FileExists(ret) Then
+            If System.IO.File.Exists(ret) Then
                 Return ret
             End If
 
@@ -29,7 +29,7 @@ Namespace UI
 
                 Dim ret = Console.ReadLine()
 
-                If My.Computer.FileSystem.FileExists(ret) Then
+                If System.IO.File.Exists(ret) Then
                     rets.Add(ret)
                 End If
 
